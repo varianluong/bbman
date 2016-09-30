@@ -1,0 +1,17 @@
+{
+  "name": "bbman_mean3",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "hccarlos <chenhanchih@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
